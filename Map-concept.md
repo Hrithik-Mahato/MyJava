@@ -58,15 +58,9 @@ public class Main {
 
 ---
 
-Key Concepts in Map
+Key Concepts in Map and Different Types of Maps 
+![add image](https://github.com/Hrithik-Mahato/MyJava/blob/main/IMG_20250307_181733.jpg)
 
-
----
-
-Different Types of Maps
-
-
----
 
 Summary
 
